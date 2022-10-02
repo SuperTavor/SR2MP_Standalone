@@ -1,0 +1,66 @@
+[07:58:31.070] ------------------------------
+[07:58:31.072] MelonLoader v0.5.5 Open-Beta
+[07:58:31.074] OS: Windows 11
+[07:58:31.076] Hash Code: 57545710048555350515452101521025297995653101559949575755515399509950
+[07:58:31.077] ------------------------------
+[07:58:31.079] Game Type: Il2Cpp
+[07:58:31.082] Game Arch: x64
+[07:58:31.083] ------------------------------
+[07:58:31.085] Core::BasePath = C:\Program Files\WindowsApps\MonomiPark.SlimeRancher2_1.0.36.0_x64__9ahw7gx0g86p2
+[07:58:31.086] Game::BasePath = C:\Program Files\WindowsApps\MonomiPark.SlimeRancher2_1.0.36.0_x64__9ahw7gx0g86p2
+[07:58:31.088] Game::DataPath = C:\Program Files\WindowsApps\MonomiPark.SlimeRancher2_1.0.36.0_x64__9ahw7gx0g86p2\SlimeRancher2_Data
+[07:58:31.090] Game::ApplicationPath = C:\Program Files\WindowsApps\MonomiPark.SlimeRancher2_1.0.36.0_x64__9ahw7gx0g86p2\SlimeRancher2.exe
+
+[07:58:31.909] ------------------------------
+[07:58:31.911] Game Name: SlimeRancher2
+[07:58:31.914] Game Developer: MonomiPark
+[07:58:31.936] Unity Version: 2021.2.10f1
+[07:58:31.937] Game Version: 0.1.1 [202208241520-81161]
+[07:58:31.939] ------------------------------
+[07:58:32.674] Preferences Loaded!
+[07:58:32.683] [Il2CppUnityTls] Patching mono_unity_get_unitytls_interface...
+[07:58:32.685] [Il2CppUnityTls] Patching il2cpp_unity_install_unitytls_interface...
+[07:58:33.113] [Il2CppUnityTls] Calling Il2CppInstallUnityTlsInterface...
+
+[07:58:33.173] Loading Plugins from 'C:\Program Files\WindowsApps\MonomiPark.SlimeRancher2_1.0.36.0_x64__9ahw7gx0g86p2\Plugins'...
+[07:58:33.174] --------------------------------------------------------------------------------------------------------------------
+
+[07:58:33.181] --------------------------------------------------------------------------------------------------------------------
+[07:58:33.186] 0 Plugins loaded.
+
+
+[07:58:36.199] [MelonStartScreen] Initializing...
+[07:58:36.239] [MelonStartScreen] Using Start Screen Theme: "Default"
+[07:58:37.637] Loading Il2CppAssemblyGenerator...
+[07:58:37.679] [Il2CppAssemblyGenerator] Contacting RemoteAPI...
+[07:58:38.403] [Il2CppAssemblyGenerator] Game Not Found on RemoteAPI Host (https://api.melonloader.com/api/v1/game/slimerancher2)
+[07:58:38.405] [Il2CppAssemblyGenerator] RemoteAPI.DumperVersion = null
+[07:58:38.407] [Il2CppAssemblyGenerator] RemoteAPI.UnhollowerVersion = null
+[07:58:38.409] [Il2CppAssemblyGenerator] RemoteAPI.ObfuscationRegex = null
+[07:58:38.411] [Il2CppAssemblyGenerator] RemoteAPI.MappingURL = null
+[07:58:38.414] [Il2CppAssemblyGenerator] RemoteAPI.MappingFileSHA512 = null
+[07:58:38.419] [Il2CppAssemblyGenerator] Using Dumper Version: 2022.1.0-pre-release.7
+[07:58:38.420] [Il2CppAssemblyGenerator] Using Il2CppAssemblyUnhollower Version = 0.4.18.0
+[07:58:38.422] [Il2CppAssemblyGenerator] Using Unity Dependencies Version = 2021.2.10
+[07:58:38.423] [Il2CppAssemblyGenerator] Using Deobfuscation Regex = null
+[07:58:38.424] [Il2CppAssemblyGenerator] Cpp2IL is up to date.
+[07:58:38.426] [Il2CppAssemblyGenerator] Il2CppAssemblyUnhollower is up to date.
+[07:58:38.428] [Il2CppAssemblyGenerator] UnityDependencies is up to date.
+[07:58:38.429] [Il2CppAssemblyGenerator] Checking GameAssembly...
+[07:58:38.978] [Il2CppAssemblyGenerator] Assembly is up to date. No Generation Needed.
+
+
+[07:58:39.006] Loading Mods from 'C:\Program Files\WindowsApps\MonomiPark.SlimeRancher2_1.0.36.0_x64__9ahw7gx0g86p2\Mods'...
+[07:58:39.008] --------------------------------------------------------------------------------------------------------------
+[07:58:39.019] Melon Assembly loaded: '.\Mods\Slime Rancher 2 Multiplayer.dll'
+[07:58:39.021] SHA256 Hash: 'f82f1d94b62b388703dd56750e51497112305adaf51d71b643a3ce1bfd5c69ed'
+
+[07:58:39.075] ------------------------------
+[07:58:39.076] Slime Rancher 2 Multiplayer v1.0.0
+[07:58:39.077] by Egor
+[07:58:39.079] Assembly: Slime Rancher 2 Multiplayer.dll
+[07:58:39.080] ------------------------------
+[07:58:39.082] --------------------------------------------------------------------------------------------------------------
+[07:58:39.083] 1 Mod loaded.
+
+[08:27:57.427] Preferences Saved!
